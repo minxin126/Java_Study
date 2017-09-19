@@ -1,4 +1,4 @@
-class hahaha
+ass hahaha
 {
     public static void main(String args[])
     {
@@ -18,3 +18,4 @@ class hahaha
       System.out.println(y);
     }
 }
+
